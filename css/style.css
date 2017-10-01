@@ -219,3 +219,7 @@ span {
     display: block;
   }
 }
+
+.horizontal-list {
+    display: inline;
+}
